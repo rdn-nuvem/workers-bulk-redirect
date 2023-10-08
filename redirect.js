@@ -1,5 +1,5 @@
 const redirectMap = new Map([
-  ["/bulkurl1", "https://mysite.com/newurl1"],
+  ["/compass-digital", "https://www.nuvemgroup.com/solutions"],
   ["/bulkurl2", "https://mysite.com/newurlt2"],
   ["/bulkurl3", "https://mysite.com/newurl3"],
   ["/bulkurl4", "https://mysite.com/newurl4"],
